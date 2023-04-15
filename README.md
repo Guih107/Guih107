@@ -5,9 +5,11 @@
 [![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/QA7V4XVWTXLSB1)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guih107@gmail.com)
 
-#### Um ano atrás decidir largar tudo e seguir o meu sonho de me tornar desenvolvedor, desde então venho enfrentando inúmeros desafios sempre com muita resiliência, e em busca desse sonho eu me deparei com a TRYBE.
-#### A TRYBE e uma escola que oferece um curso de desenvolvimento web completo que vai desde os fundamentos ate ciência de dados possibilitando uma excelente formação para o mercado.
-#### Dito isto aqui estou eu, buscando novos desafios na minha vida, fazendo uma transição de carreira, e me aventurando nesse mundo incrível da tecnologia.
+ Há um ano atrás, decidi largar tudo e seguir o sonho de me tornar desenvolvedor. 
+Desde então, venho enfrentando inúmeros desafios, mas sempre com foco e dedicação.
+E para alcançar meus objetivos, conto com a
+ TRYBE, que é uma escola que oferece um curso de desenvolvimento web completo, que vai desde os fundamentos, até ciência de dados, possibilitando uma excelente formação para o mercado.
+Contudo, aqui estou em busca de novos desafios, fazendo uma transição de carreira e embarcando nesse mundo incrível da tecnologia.
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guih107&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guih107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
